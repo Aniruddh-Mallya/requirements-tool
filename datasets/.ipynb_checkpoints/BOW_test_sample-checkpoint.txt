@@ -1,0 +1,17 @@
+'the current fb app is not good at all for tabs with big screen', BugReport
+'the problem is with the way items displaypics are smalllarge empty space etc the display generally not attractive', BugReport
+'not to mention it force closes often', BugReport
+'also every time i open it asks me if i want to search my email to find friends', BugReport
+'now i cannot view any photos', BugReport
+'it should have multi tabs ', FeatureRequest
+'for me to be able to post a status i need to open a browser', FeatureRequest
+'i use my phone almost  exclusivly to log into fb and not being able to delete or edit comments is unacceptable', FeatureRequest
+'cant turn off location tracking', FeatureRequest
+'my biggest pet peeve is that i cant like', FeatureRequest
+'But why does it take up 27 MB of RAM on my Galaxy Nexus', Other
+'Arabic letters are rather small', Other
+'It also takes a lot of memory', Other
+'this is the best keyboard ever but it eats quite a lot of ram', Other
+'I often find myself accidentally deleting words', Other
+
+
